@@ -1,1 +1,2 @@
-# Caesar-Cipher---Python
+# caesar-cipher
+This simple Caesar cipher script in Python can encrypt and decrypt text provided from both the console and a file. It takes a text message and a shift value as input and applies the Caesar cipher algorithm to either encrypt or decrypt the message, based on the user's choice. The script includes error handling to ensure the input is valid and provides options for encryption or decryption. It can also handle text from a file, reading the content, applying the cipher, and then either displaying the result in the console or writing it back to a file.
